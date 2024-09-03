@@ -1,1 +1,1 @@
-This is my own personnal attempt at making this project. 
+This is my own personnal attempt at making this project. In this attempt I based my code around the video game Ark Survival Ascended(ASA), and in that game there are lots of dinosaurs so i would make search bar that would find the dinosaurs and show how to tame them.
