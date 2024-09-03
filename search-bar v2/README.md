@@ -1,1 +1,1 @@
-This is my trying to make this project with the help of tutorials and yt videos.
+This is my trying to make this project with help. I could not seem to solve some of the issues i was having on v1 so i decided to restart and try and finish it with the help of tutorials and videos.
